@@ -8,3 +8,5 @@ Key Metrics:
 3. Total Pizza Sales
 4. Total Orders
 5. Avg Pizza Order
+
+6. #### Dashboard Link: https://www.novypro.com/profile_projects/bhagyashri-mane?Popup=memberProject&Data=1715312149005x757074157915893500
